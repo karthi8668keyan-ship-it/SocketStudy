@@ -107,7 +107,7 @@ conn.send(message.encode())
 conn.close()
 server_socket.close()
 ```
-## output
+## output:
 ### client:
 <img width="1855" height="156" alt="image" src="https://github.com/user-attachments/assets/f6070d50-f4b4-4e3b-8344-e9affa261d34" />
 
