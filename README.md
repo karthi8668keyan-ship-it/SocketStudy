@@ -108,9 +108,9 @@ conn.close()
 server_socket.close()
 ```
 ## output
-client:
+### client:
 <img width="1855" height="156" alt="image" src="https://github.com/user-attachments/assets/f6070d50-f4b4-4e3b-8344-e9affa261d34" />
-server:
+### server:
 <img width="1312" height="224" alt="image" src="https://github.com/user-attachments/assets/9057c0f7-2bc4-4929-9cd3-020825724ee6" />
 
 ## Result:
